@@ -1,0 +1,6 @@
+# Datasets
+cifar10/
+Activity_2/cifar10/
+
+# PyTorch datasets
+data/
